@@ -1,0 +1,152 @@
+{
+    "name": "🔴True-Movie",
+    "author": "Metal&Pow-TV",
+    "image": "https://raw.githubusercontent.com/powmetal/Powermetal/main/PowerMetal/Assets/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89.jpg?token=GHSAT0AAAAAACV6B5OPLM4F6S2DXQMCOCS6ZV2QTZA",
+    "stations": [
+    {
+        "name": "True Film 1",
+        "image": "https://dookeela.live//uploads/1720380229.png",
+        "url": "https://dookeela.live/live-tv/truefilm1",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "True Series",
+        "image": "https://dookeela.live/uploads/1719205991.png",
+        "url": "https://dookeela.live/live-tv/trueseries",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "True Film 2",
+        "image": "https://dookeela.live//uploads/1720723122.png",
+        "url": "https://dookeela.live/live-tv/truefilm2",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "True Movies Hits",
+        "image": "https://dookeela.live//uploads/1719803882.png",
+        "url": "https://dookeela.live/live-tv/truemoviehits",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "True Film Asia",
+        "image": "https://dookeela.live//uploads/1719205705.png",
+        "url": "https://dookeela.live/live-tv/truefilmasia",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "True Asian More",
+        "image": "https://dookeela.live//uploads/1719205850.png",
+        "url": "https://dookeela.live/live-tv/trueasianmore",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "True Thai Film",
+        "image": "https://dookeela.live//uploads/1706539896.png",
+        "url": "https://dookeela.live/live-tv/truethaifilm",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "True X-Zyte",
+        "image": "https://dookeela.live//uploads/1719206155.png",
+        "url": "https://dookeela.live/live-tv/truex-zyte",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "CCM",
+        "image": "https://dookeela.live//uploads/1719803240.png",
+        "url": "https://dookeela.live/live-tv/ccm",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "KMTV",
+        "image": "https://dookeela.live/uploads/1720379919.png",
+        "url": "https://dookeela.live/live-tv/kmtv",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "ROCK Entertainment",
+        "image": "https://dookeela.live//uploads/1718690283.png",
+        "url": "https://dookeela.live/live-tv/rock-entertainment",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "ROCK Action",
+        "image": "https://dookeela.live//uploads/1718690264.png",
+        "url": "https://dookeela.live/live-tv/rock-action",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "Warner TV",
+        "image": "https://dookeela.live//uploads/1703832225.png",
+        "url": "https://dookeela.live/live-tv/warnertv",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "AXN",
+        "image": "https://dookeela.live/uploads/1719897010.png",
+        "url": "https://dookeela.live/live-tv/axn",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "TLC",
+        "image": "https://dookeela.live//uploads/1717696038.png",
+        "url": "https://dookeela.live/live-tv/tlc",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "Asian Food Network",
+        "image": "https://dookeela.live//uploads/1717696078.png",
+        "url": "https://dookeela.live/live-tv/afn",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "Food Network",
+        "image": "https://dookeela.live//uploads/1717696062.png",
+        "url": "https://dookeela.live/live-tv/foodnetwork",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "Lifetime",
+        "image": "https://dookeela.live//uploads/1720781589.png",
+        "url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=hd-lifetime&api_key=xjA7kf1WXmzK",
+        "referer": "https://livesod365.com/"
+    },
+    {
+        "name": "History Channel",
+        "image": "https://dookeela.live//uploads/1713231372.png",
+        "url": "https://dookeela.live/live-tv/history",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "Discovery Asia",
+        "image": "https://dookeela.live//uploads/1706112755.png",
+        "url": "https://dookeela.live/live-tv/discovery-asia",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "Discovery Channel",
+        "image": "https://dookeela.live//uploads/1706112738.png",
+        "url": "https://dookeela.live/live-tv/discovery",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "Crime + Investigation",
+        "image": "https://dookeela.live//uploads/1714101661.png",
+        "url": "https://dookeela.live/live-tv/crime-investigation",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "Love Nature",
+        "image": "https://dookeela.live//uploads/1713508633.png",
+        "url": "https://dookeela.live/live-tv/love-nature-4k",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "BBC Earth",
+        "image": "https://dookeela.live//uploads/1714101191.png",
+        "url": "https://dookeela.live/live-tv/bbc-earth",
+        "referer": "https://dookeela.live/"
+    }
+  ]
+}
+   
