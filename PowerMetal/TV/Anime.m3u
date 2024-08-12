@@ -1,0 +1,56 @@
+{
+    "name": "🧸ช่องการ์ตูน",
+    "author": "Metal&Pow TV",
+    "image": "https://raw.githubusercontent.com/powmetal/Powermetal/main/PowerMetal/Assets/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89.jpg",
+    "stations": [
+    {
+        "name": "[TH]Boomerang",
+        "image": "https://dookeela.live/uploads/1705504202.png",
+        "url": "https://dookeela.live/live-tv/boomerang",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "[TH]Cartoon Club HD",
+        "image": "https://dookeela.live/uploads/1705504043.png",
+        "url": "https://dookeela.live/live-tv/cartoonclub",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "[TH]Cartoon Network",
+        "image": "https://dookeela.live/uploads/1708344243.png",
+        "url": "https://dookeela.live/live-tv/cartoon-network",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "[TH]Cartoonito",
+        "image": "https://dookeela.live/uploads/1704039063.png",
+        "url": "https://dookeela.live/live-tv/cartoonito",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "[TH]DreamWorks",
+        "image": "https://dookeela.live/uploads/1723200736.png",
+        "url": "https://dookeela.live/live-tv/dreamworks",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "[TH]Nick Jr.",
+        "image": "https://dookeela.live/uploads/1708344362.png",
+        "url": "https://dookeela.live/live-tv/nickjr",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "[TH]Nickelodeon",
+        "image": "https://dookeela.live/uploads/1708344306.png",
+        "url": "https://dookeela.live/live-tv/nickelodeon",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "[TH]True Spark Play",
+        "image": "https://dookeela.live/uploads/1720723541.png",
+        "url": "https://dookeela.live/live-tv/truesparkplay",
+        "referer": "https://dookeela.live/"
+    },
+  ]
+}
+  

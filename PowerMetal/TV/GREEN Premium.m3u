@@ -1,0 +1,50 @@
+{
+    "name": "🟢AIS-Movie",
+    "author": "Metal&Pow-TV",
+    "image": "https://raw.githubusercontent.com/powmetal/Powermetal/main/PowerMetal/Assets/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89.jpg",
+    "stations": [
+    {
+      "name": "3BB ASIA",
+      "image": "https://dookeela.live//uploads/1703829940.png",
+      "url": "https://dookeela.live/live-tv/3bbasian",
+      "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "MONO PLUS+",
+        "image": "https://dookeela.live//uploads/1703787733.png",
+        "url": "https://dookeela.live/live-tv/mono29plus",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "HBO",
+        "image": "https://dookeela.live//uploads/1703686191.png",
+        "url": "https://dookeela.live/live-tv/hbo",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "HBO HITS",
+        "image": "https://dookeela.live//uploads/1703786599.png",
+        "url": "https://dookeela.live/live-tv/hbo-hits",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "HBO SIGNATURE",
+        "image": "https://dookeela.live//uploads/1703786305.png",
+        "url": "https://dookeela.live/live-tv/hbo-signature",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "HBO FAMILY",
+        "image": "https://dookeela.live//uploads/1703786776.png",
+        "url": "https://dookeela.live/live-tv/hbo-family",
+        "referer": "https://dookeela.live/"
+    },
+    {
+        "name": "CINEMAX",
+        "image": "https://dookeela.live//uploads/1703786799.png",
+        "url": "https://dookeela.live/live-tv/cinemax",
+        "referer": "https://dookeela.live/"
+    }
+    ]
+   }
+   
