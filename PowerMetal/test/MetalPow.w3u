@@ -1,0 +1,100 @@
+{
+	"name": "Metal&Pow-TV",
+	"author": "Metal&Pow-TV",
+	"image": "https://raw.githubusercontent.com/powmetal/Powermetal/main/PowerMetal/Assets/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89.jpg",
+	"url": "https://bit.ly/metalpow",
+	"info": "✨สำหรับคนพิเศษ และเสพติดความเป็นญี่ปุ่น",
+	"groups": [
+		{
+			"name": "❗กดตรงนี้ 1 ครั้งก่อนดู❗",
+			"image": "https://raw.githubusercontent.com/powmetal/Powermetal/main/PowerMetal/Assets/%E0%B8%81%E0%B8%94%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B8%B9.png",
+			"url": "https://bit.ly/metalpow"
+		},
+		{
+			"name": "🏈SPORTS",
+			"author": "Metal&Pow-TV",
+			"image": "https://raw.githubusercontent.com/powmetal/Powermetal/main/PowerMetal/Assets/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2.png",
+			"groups": [
+				{
+					"name": "🔴True Sport",
+					"image": "https://raw.githubusercontent.com/powmetal/Powermetal/main/PowerMetal/Assets/logo/SPORTS%20True.jpg",
+					"url": "https://raw.githubusercontent.com/powmetal/Powermetal/main/PowerMetal/TV/SPORTS%20True.m3u",
+					"import": "true"
+				},
+				{
+					"name": "🟢AIS Sport",
+					"image": "https://raw.githubusercontent.com/powmetal/Powermetal/main/PowerMetal/Assets/logo/AIS%20SPORT.png",
+					"url": "https://raw.githubusercontent.com/powmetal/Powermetal/main/PowerMetal/TV/SPORTS%20AIS.m3u",
+					"import": "true"
+				},
+			]
+		},
+		{
+			"name": "📺ทีวีออนไลน์",
+			"author": "Metal&Pow-TV",
+			"image": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/Assets/logo/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5.png",
+			"groups": [
+				{
+					"name": "📺ช่องฟรีทีวี (+ระบบเสียง 2 ภาษา)",
+					"image": "https://github.com/skiddyz/skiddyviews/blob/main/tv/Assets/logo/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%9F%E0%B8%A3%E0%B8%B5%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5.png?raw=true",
+					"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/th-free.m3u",
+					"import": "true"
+				},
+				{
+					"name": "📺🌸ช่องญี่ปุ่น",
+					"image": "https://github.com/skiddyz/skiddyviews/blob/main/tv/Assets/logo/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99.png?raw=true",
+					"groups": [
+						{
+							"name": "🇯🇵📺Tokyo",
+							"image": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/Assets/logo/tokyo.png",
+							"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/jp-tv-channel/tv_tokyo.m3u",
+							"import": "true"
+						},
+						{
+							"name": "🇯🇵📺Osaka",
+							"image": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/Assets/logo/osaka.png",
+							"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/jp-tv-channel/tv_Osaka.m3u",
+							"import": "true"
+						},
+						{
+							"name": "🇯🇵📺BS",
+							"image": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/Assets/logo/BS.png",
+							"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/jp-tv-channel/tv_BS.m3u",
+							"import": "true"
+						},
+						{
+							"name": "🇯🇵📺CS",
+							"image": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/Assets/logo/CS.png",
+							"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/jp-tv-channel/tv_CS.m3u",
+							"import": "true"
+						}
+					]
+				},
+				{
+					"name": "🟢Premium (AIS)",
+					"image": "https://github.com/skiddyz/skiddyviews/blob/main/tv/Assets/logo/ent/%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7.png?raw=true",
+					"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/GREEN%20Premium.m3u",
+					"import": "true"
+				},
+				{
+					"name": "🔴Platinum (TRUE) | More content Soon!",
+					"image": "https://github.com/skiddyz/skiddyviews/blob/main/tv/Assets/logo/ent/%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%81%E0%B8%94%E0%B8%87.png?raw=true",
+					"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/RED%20PLATINNUM.m3u",
+					"import": "true"
+				},
+				{
+					"name": "🌎GOOD TV | สารคดี",
+					"image": "https://github.com/skiddyz/skiddyviews/blob/main/tv/Assets/logo/ent/goodtv.png?raw=true",
+					"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/good%20tv.m3u",
+					"import": "true"
+				},
+				{
+					"name": "🧸ช่องอนิเมะ / การ์ตูน",
+					"image": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/Assets/logo/annctr.png",
+					"url": "https://raw.githubusercontent.com/skiddyz/skiddyviews/main/tv/content/cartoonanime.m3u",
+					"import": "true"
+				}
+			]
+		}
+	]
+}
