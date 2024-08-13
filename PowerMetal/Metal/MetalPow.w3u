@@ -1,0 +1,70 @@
+{
+	"name": "Metal&Pow-TV",
+	"author": "Metal&Pow-TV",
+	"image": "https://raw.githubusercontent.com/powmetal/Powermetal/main/PowerMetal/Assets/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89.jpg",
+	"url": "https://bit.ly/metalpow",
+	"info": "✨เฉพาะสมาชิคที่สมัครMetal&Pow Mediaเท่านั้น",
+	"groups": [
+		{
+			"name": "❗กดตรงนี้ 1 ครั้งก่อนดู❗",
+			"image": "https://raw.githubusercontent.com/powmetal/Powermetal/main/PowerMetal/Assets/%E0%B8%81%E0%B8%94%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B8%B9.png",
+			"url": "https://bit.ly/metalpow"
+		},
+		{
+			"name": "🏈SPORTS",
+			"author": "Metal&Pow-TV",
+			"image": "https://raw.githubusercontent.com/powmetal/Powermetal/main/PowerMetal/Assets/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2.png",
+			"groups": [
+				{
+					"name": "🔴True Sport",
+					"image": "https://raw.githubusercontent.com/powmetal/Powermetal/main/PowerMetal/Assets/logo/SPORTS%20True.jpg",
+					"url": "https://raw.githubusercontent.com/powmetal/Powermetal/main/PowerMetal/TV/SPORTS%20True.m3u",
+					"import": "true"
+				},
+				{
+					"name": "🟢AIS Sport",
+					"image": "https://raw.githubusercontent.com/powmetal/Powermetal/main/PowerMetal/Assets/logo/AIS%20SPORT.png",
+					"url": "https://raw.githubusercontent.com/powmetal/Powermetal/main/PowerMetal/TV/SPORTS%20AIS.m3u",
+					"import": "true"
+				},
+			]
+		},
+		{
+			"name": "📺ทีวีออนไลน์",
+			"author": "Metal&Pow-TV",
+			"image": "https://raw.githubusercontent.com/powmetal/Powermetal/main/PowerMetal/Assets/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%87.png",
+			"groups": [
+				{
+					"name": "📺ช่องTV Digital",
+					"image": "https://raw.githubusercontent.com/powmetal/Powermetal/main/PowerMetal/Assets/logo/tv_digital.jpg",
+					"url": "https://raw.githubusercontent.com/powmetal/Powermetal/main/PowerMetal/TV/th-free.m3u",
+					"import": "true"
+				},
+				{
+					"name": "🟢ช่องAIS ",
+					"image": "https://raw.githubusercontent.com/powmetal/Powermetal/main/PowerMetal/Assets/logo/%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7.png",
+					"url": "https://raw.githubusercontent.com/powmetal/Powermetal/main/PowerMetal/TV/GREEN%20Premium.m3u",
+					"import": "true"
+				},
+				{
+					"name": "🔴ช่องTRUE",
+					"image": "https://raw.githubusercontent.com/powmetal/Powermetal/main/PowerMetal/Assets/logo/%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%81%E0%B8%94%E0%B8%87.png",
+					"url": "https://raw.githubusercontent.com/powmetal/Powermetal/main/PowerMetal/TV/RED%20PLATINNUM.m3u",
+					"import": "true"
+				},
+				{
+					"name": "🌎ช่องสารคดี",
+					"image": "https://raw.githubusercontent.com/powmetal/Powermetal/main/PowerMetal/Assets/logo/goodtv.png",
+					"url": "https://raw.githubusercontent.com/powmetal/Powermetal/main/PowerMetal/TV/Good%20tv.m3u",
+					"import": "true"
+				},
+				{
+					"name": "🧸ช่องการ์ตูน",
+					"image": "https://raw.githubusercontent.com/powmetal/Powermetal/main/PowerMetal/Assets/logo/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B9%E0%B8%99.jpg",
+					"url": "https://raw.githubusercontent.com/powmetal/Powermetal/main/PowerMetal/TV/Anime.m3u",
+					"import": "true"
+				}
+			]
+		}
+	]
+}
