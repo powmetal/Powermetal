@@ -1,0 +1,37 @@
+{
+    "name": "📺รวมช่องหนัง-ซีรี่ย์",
+    "author": "Metal&Pow-TV",
+    "image": "https://raw.githubusercontent.com/powmetal/Powermetal/main/PowerMetal/Assets/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89.jpg",
+    "stations": [
+    {
+      "name": "FWซีรี่ย์",
+      "image": "https://img.inwiptv.net/postor/20240429213326FWSOV.jpg",
+      "url": "https://inwiptv.com/player_demo.php?channel=94898",
+      "referer": "https://inwiptv.com/"
+    },
+    {
+      "name": "FWหนัง",
+      "image": "https://img.inwiptv.net/postor/20240429213309FWMOV.jpg",
+      "url": "https://inwiptv.com/player_demo.php?channel=95262",
+      "referer": "https://inwiptv.com/"
+    },
+    {
+      "name": "FWการ์ตูน",
+      "image": "https://img.inwiptv.net/postor/20240429213651FWTOON.jpg",
+      "url": "https://inwiptv.com/jw/8/jwplayer.js?_=1723669515801",
+      "referer": "https://inwiptv.com/"
+    },
+    {
+      "name": "FWสารคดี",
+      "image": "https://img.inwiptv.net/postor/20240617204638FWDoc.jpg",
+      "url": "https://inwiptv.com/player_demo.php?channel=91303",
+      "referer": "https://inwiptv.com/"
+    },
+    {
+      "name": "FWกีฬา",
+      "image": "https://img.inwiptv.net/postor/20240429213640FWsport.jpg",
+      "url": "https://inwiptv.com/player_demo.php?channel=89782",
+      "referer": "https://inwiptv.com/"
+    }
+    ]
+   }
