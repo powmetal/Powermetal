@@ -85,7 +85,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
 #KODIPROP:inputstream.adaptive.license_key=ae986b6dd3d84b2bb868c8765c604815:89bf3c85580249d5bac4d3edaec019ec
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
 
-#EXTINF:-1 tvg-id="CH8.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/27.png" group-title="3BBGIGATV", CH8
+#EXTINF:-1 tvg-id="CH8.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/27.png" group-title="3BBGIGATV",CH8.th
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -132,7 +132,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
 #KODIPROP:inputstream.adaptive.license_key=0b898bb9530b4b0a97e444d1e1f8960e:dab1a7c035d94287ac64417ef809ed3b
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
 
-#EXTINF:-1 tvg-id="CH7 HD.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/35.png" group-title="3BBGIGATV", CH7 HD
+#EXTINF:-1 tvg-id="CH7 HD.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/35.png" group-title="3BBGIGATV",CH7 HD.th
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
