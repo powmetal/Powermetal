@@ -1,3 +1,9 @@
+=========================================== EPG Guides ===========================================
+
+
+#EXTM3U url-tvg="https://xmltv.tvkaista.net/guides/tv.trueid.net.xml,https://www.bevy.be/bevyfiles/thailand.xml.txt"
+
+
 =========================================== 3BBGIGATV ===========================================
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt_4rcDFMco1p9KI5IGUjdGftoxViwNoXlPg&usqp=CAU" 
 
@@ -17,14 +23,14 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/2/2.mpd
 #KODIPROP:inputstream.adaptive.license_key=4d4426a505f64382a9841155d721cee6:0f4770219ccb4be5836a7517057e51c3
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/3/3.mpd
 
-#EXTINF:-1 tvg-id="ALTV.th" tvg-logo="https://gigatv.3BBGIGATV.co.th/wp-content/themes/changwattana/assets/channel/4.png" group-title="3BBGIGATV",ALTV.th
+#EXTINF:-1 tvg-id="ALTV4.th" tvg-logo="https://raw.githubusercontent.com/powmetal/Powermetal/main/PowerMetal/Assets/logo/ALTV.jpg" group-title="3BBGIGATV",ALTV4.th
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1e98456bcbea44b7ad05831387e364ef:3d14fd4f9d3149a79b35a7124fccbd67
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/4/4.mpd
 
-#EXTINF:-1 tvg-chno="5" tvg-id="TV5HD.th" tvg-name="TV5 HD" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png" group-title="3BBGIGATV", TV5 HD
+#EXTINF:-1 tvg-chno="5" tvg-id="TV5HD.th" tvg-name="TV5HD.th" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png" group-title="3BBGIGATV", TV5 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -73,7 +79,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
 #KODIPROP:inputstream.adaptive.license_key=8e66726c1191403588f95c0757613ff1:67c26ba7f9b84024944808e01bbe6f47
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
 
-#EXTINF:-1 tvg-id="3BBAsian.th" tvg-name="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="3BBGIGATV",TRUE4U
+#EXTINF:-1 tvg-id="True 4 U.th" tvg-name="True 4 U.th" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="3BBGIGATV",True 4 U.th
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -148,7 +154,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/35/35.mpd
 #KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
  
-#EXTINF:-1 tvg-id="3BB Asian.th" tvg-name="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBAsian_new.png" group-title="3BBGIGATV",3BB Asian.th
+#EXTINF:-1 tvg-id="3BB Asian.th" tvg-name="3BB Asian.th" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBAsian_new.png" group-title="3BBGIGATV",3BB Asian.th
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48
@@ -217,6 +223,6 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
 #KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
 
-#EXTINF:-1 tvg-id="TrueSports 1" tvg-name="" tvg-logo="https://dookeela.live/uploads/1664802455.png" group-title="3BBGIGATV", TrueSports 1
+#EXTINF:-1 tvg-id="truesport-hd" tvg-name="" tvg-logo="https://dookeela.live/uploads/1664802455.png" group-title="3BBGIGATV", ทรูสปอร์ต 1
 #EXTVLCOPT:http-referrer=https://doolive4k.tv/
 https://dolive.thaim3u.com/doolive4k-tv/siamsport-8/playlist.m3u8
