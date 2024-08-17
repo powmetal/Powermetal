@@ -1,9 +1,3 @@
-=========================================== EPG Guides ===========================================
-
-
-#EXTM3U url-tvg="https://xmltv.tvkaista.net/guides/tv.trueid.net.xml,https://www.bevy.be/bevyfiles/thailand.xml.txt"
-
-
 =========================================== 3BBGIGATV ===========================================
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt_4rcDFMco1p9KI5IGUjdGftoxViwNoXlPg&usqp=CAU" 
 
