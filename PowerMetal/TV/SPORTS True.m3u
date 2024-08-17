@@ -10,18 +10,6 @@
       "referer": "https://doolive4k.tv/"
     },
     {
-      "name": " True Premier 1",
-      "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_320.webp",
-      "url": "https://streaming.livescorethai.net/iptv/epl-1.stream/playlist.m3u8",
-      "referer": "https://streaming.livescorethai.net"},
-    },
-    {
-      "name": " True Premier 2",
-      "image": "https://dookeela.live/uploads/1664499966.png",
-      "url": "https://streaming.livescorethai.net/iptv/epl-2.stream/playlist.m3u8",
-      "referer": "https://livescorethai.net"},
-    },
-    {
       "name": "TrueSports 2",
       "image": "https://dookeela.live/uploads/1664499966.png",
       "url": "https://dookeela.live/live-tv/tsp2",
@@ -62,6 +50,18 @@
       "image": "https://dookeela.live/uploads/1664499665.png",
       "url": "https://dookeela.live/live-tv/epl1_sd",
       "referer": "https://dookeela.live/"
+    },
+    {
+      "name": " True Premier 1",
+      "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_320.webp",
+      "url": "https://streaming.livescorethai.net/iptv/epl-1.stream/playlist.m3u8",
+      "referer": "https://streaming.livescorethai.net"},
+    },
+    {
+      "name": " True Premier 2",
+      "image": "https://dookeela.live/uploads/1664499966.png",
+      "url": "https://streaming.livescorethai.net/iptv/epl-2.stream/playlist.m3u8",
+      "referer": "https://livescorethai.net"},
     },
     {
       "name": "True Premier Football 2",
