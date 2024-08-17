@@ -12,13 +12,15 @@
     {
       "name": " True Premier 1",
       "image": "https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_320.webp",
-      "online": "true",
       "url": "https://streaming.livescorethai.net/iptv/epl-1.stream/playlist.m3u8",
       "referer": "https://streaming.livescorethai.net"},
     },
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/03/13/rVKiqv.png",True Premier Football 2
-#EXTVLCOPT:http-referrer=https://livescorethai.net
-https://streaming.livescorethai.net/iptv/epl-2.stream/playlist.m3u8
+    {
+      "name": " True Premier 2",
+      "image": "https://dookeela.live/uploads/1664499966.png",
+      "url": "https://streaming.livescorethai.net/iptv/epl-2.stream/playlist.m3u8",
+      "referer": "https://livescorethai.net"},
+    },
     {
       "name": "TrueSports 2",
       "image": "https://dookeela.live/uploads/1664499966.png",
