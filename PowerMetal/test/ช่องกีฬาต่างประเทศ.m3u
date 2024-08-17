@@ -171,7 +171,7 @@ https://webhdrus.onlinehdhls.ru/lb/premium413/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
 
-#EXTINF:-1 tvg-logo="https://image.24hsport.tv/tvs/117.png" group-title="⚽ SPORTS WORLD",WWE Network
+#EXTINF:-1 tvg-id="WWENetwork.us" tvg-logo="https://image.24hsport.tv/tvs/117.png" group-title="⚽ SPORTS WORLD",WWE Network
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://webhdrus.onlinehdhls.ru/lb/premium376/index.m3u8
