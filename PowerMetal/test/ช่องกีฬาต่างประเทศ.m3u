@@ -1,4 +1,7 @@
+=========================================== กู๊ดทีวี ===========================================
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRBfuSuojf42NH1TCqcQc_0FbsnU_UPIfeYQ&usqp=CAU" 
+
+
 
 #EXTINF:-1 tvg-id="Khongdee.th" tvg-name="KhongDee" tvg-logo="https://i.ibb.co/Pg7dBL9/ddd.png" group-title="กู๊ดทีวี",KhongDee
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
@@ -17,10 +20,6 @@ https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0155/DASH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC58/index.m3u8
 
-
-#EXTINF:-1 tvg-id="Sumlojlok.th" tvg-name="Sumlojlok" tvg-logo="https://i.ibb.co/Pm84NSc/goodtv.jpg" group-title="กู๊ดทีวี",Sumlojlok
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC8/index.m3u8
 #EXTINF:-1 tvg-id="Animal Show.th" tvg-name="AnimalShow" tvg-logo="https://i.ibb.co/T018CMK/animal.jpg" group-title="กู๊ดทีวี",AnimalShow
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
@@ -28,9 +27,7 @@ https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0153/DASH
 #EXTVLCOPT:http-referrer=https://wacth.tv
 #https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC18/index.m3u8
 
-#EXTINF:-1 tvg-id="BXcite.th" tvg-name="BXcite" tvg-logo="https://i.ibb.co/0ZXqLCb/bxcite.png" group-title="กู๊ดทีวี",BXcite
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-#https://media.wacthstream.com/stream_live/goodtv57_BXcite./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjQgNzo0Nzo0MyBBTSZoYXNoX3ZhbHVlPWs0T1JWbWFXUEE1Mkt1KzEzakdDeUE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF8xOTk1MA==
+
 #EXTINF:-1 tvg-id="mysci.th" tvg-name="MYSCI" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113185546mysci.png" group-title="กู๊ดทีวี",MYSCI
 #EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
 #EXTVLCOPT:http-referrer=https://ais-vidnt.com/
