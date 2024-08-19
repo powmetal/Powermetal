@@ -1,0 +1,115 @@
+{
+  "name": "🔴SPORTS True",
+  "author": "Metal&Pow-TV",
+  "image": "https://raw.githubusercontent.com/powmetal/Powermetal/main/PowerMetal/Assets/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89.jpg",
+  "stations": [
+    {
+      "name": "TrueSports 1",
+      "image": "https://dookeela.live/uploads/1664802455.png",
+      "url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-8/playlist.m3u8",
+      "referer": "https://doolive4k.tv/"
+    },
+    {
+      "name": "TrueSports 2",
+      "image": "https://dookeela.live/uploads/1664499966.png",
+      "url": "https://dookeela.live/live-tv/tsp2",
+      "referer": "https://dookeela.live/"
+    },
+    {
+      "name": "TrueSports 3",
+      "image": "https://dookeela.live/uploads/1664802480.png",
+      "url": "https://dookeela.live/live-tv/tsp3",
+      "referer": "https://dookeela.live/"
+    },
+    {
+      "name": "TrueSports 4",
+      "image": "https://dookeela.live/uploads/1717396131.png",
+      "url": "https://dookeela.live/live-tv/tsp4",
+      "referer": "https://dookeela.live/"
+    },
+    {
+      "name": "TrueSports 5",
+      "image": "https://dookeela.live/uploads/1664847910.png",
+      "url": "https://dookeela.live/live-tv/tsp5",
+      "referer": "https://dookeela.live/"
+    },
+    {
+      "name": "TrueSports 7",
+      "image": "https://dookeela.live/uploads/1664847921.png",
+      "url": "https://dookeela.live/live-tv/tsp7",
+      "referer": "https://dookeela.live/"
+    },
+    {
+      "name": "True Tennis",
+      "image": "https://dookeela.live/uploads/1717257614.png",
+      "url": "https://dookeela.live/live-tv/truetennis",
+      "referer": "https://dookeela.live/"
+    },
+    {
+      "name": "True Premier Football 1",
+      "image": "https://dookeela.live/uploads/1664499665.png",
+      "url": "https://dookeela.live/live-tv/epl1_sd",
+      "referer": "https://dookeela.live/"
+    },
+    {
+      "name": "True Premier Football 2",
+      "image": "https://dookeela.live/uploads/1664499673.png",
+      "url": "https://dookeela.live/live-tv/epl2",
+      "referer": "https://dookeela.live/"
+    },
+    {
+      "name": "True Premier Football 3",
+      "image": "https://dookeela.live/uploads/1664499681.png",
+      "url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-3/playlist.m3u8",
+      "referer": "https://doolive4k.tv/"
+    },
+    {
+      "name": "True Premier Football 4",
+      "image": "https://dookeela.live/uploads/1664499692.png",
+      "url": "https://dolive.thaim3u.com/doolive4k-tv/siamsport-4/playlist.m3u8",
+      "referer": "https://doolive4k.tv/"
+    },
+    {
+      "name": "True Premier Football 5",
+      "image": "https://dookeela.live/uploads/1664499700.png",
+      "url": "https://dolive.thaim3u.com:443/doolive4k-tv/siamsport-5/playlist.m3u8",
+      "referer": "https://doolive4k.tv/"
+    },
+    {
+      "name": "SPOTV",
+      "image": "https://dookeela.live/uploads/1664529562.png",
+      "url": "https://dookeela.live/live-tv/spotv",
+      "referer": "https://dookeela.live/"
+    },
+    {
+      "name": "SPOTV 2",
+      "image": "https://dookeela.live/uploads/1664529575.png",
+      "url": "https://dookeela.live/live-tv/spotv2",
+      "referer": "https://dookeela.live/"
+    },
+    {
+      "name": "Bein Sport 1",
+      "image": "https://dookeela.live//uploads/1664500365.png",
+      "url": "https://www.ufa77.fun/channel?ch=bein1",
+      "referer": "https://www.ufa77.fun/"
+    },
+    {
+      "name": "Bein Sport 2",
+      "image": "https://dookeela.live//uploads/1690843424.png",
+      "url": "https://www.ufa77.fun/channel?ch=bein2",
+      "referer": "https://www.ufa77.fun/"
+    },
+    {
+      "name": "Bein Sport 3",
+      "image": "https://dookeela.live//uploads/1663980670.png",
+      "url": "https://www.ufa77.fun/channel?ch=bein3",
+      "referer": "https://www.ufa77.fun/"
+    },
+    {
+      "name": "GOLF Channel Thailand",
+      "image": "https://dookeela.live/uploads/1664801941.png",
+      "url": "https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=hd-golf2&api_key=xjA7kf1WXmzK",
+      "referer": "https://dooball66x.com/"
+    }
+     ]
+}
