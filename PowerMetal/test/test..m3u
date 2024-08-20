@@ -1,230 +1,36 @@
-#EXTINF:-0 group-title="AISPLAY PREMIUM" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT1.png", SIAMSPORT 1
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/JL001/DASH/JL001.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7bbb1b0e447828db356b9989b4374898&chunkHttps=true&tmid=B0006&tpbk=e4E189txBbOGSluZ&rrt=1724082834&tmod=rfk&rsid=2bd2eca6-fd2d-4168-8bfc-e5ab69b919ca&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724169234
+#EXTINF:-1 tvg-id="" tvg-name="Asian More" tvg-logo="https://moviektu.com/news/logotv/movie/hd-asianmore.png" group-title="ภาพยนต์",Asian More (S)
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://media.wacthstream.com/stream_live/239_AsianMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
 
-#EXTINF:-0 group-title="AISPLAY PREMIUM" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT1.png", SIAMSPORT 2
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/JL002/DASH/JL002.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7bbb1b0e447828db356b9989b4374898&chunkHttps=true&tmid=B0006&tpbk=e4E189txBbOGSluZ&rrt=1724082834&tmod=rfk&rsid=2bd2eca6-fd2d-4168-8bfc-e5ab69b919ca&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724169234
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://moviektu.com/news/logotv/movie/hd-axn.png" group-title="ภาพยนต์",AXN (S)
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net
+https://streaming.livescorethai.net/iptv/hd-axn.stream/playlist.m3u8
 
-#EXTINF:-0 group-title="AISPLAY PREMIUM" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT3.png", SIAMSPORT 3
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/JL003/DASH/JL003.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7bbb1b0e447828db356b9989b4374898&chunkHttps=true&tmid=B0006&tpbk=e4E189txBbOGSluZ&rrt=1724082834&tmod=rfk&rsid=2bd2eca6-fd2d-4168-8bfc-e5ab69b919ca&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724169234
+#EXTINF:-1 tvg-id="Warner TV.th" tvg-name="Warner" tvg-logo="https://moviektu.com/news/logotv/movie/hd-warnertv.png" group-title="ภาพยนต์",Warner (S)
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://media.wacthstream.com/stream_live/228_warner/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
 
-#EXTINF:-0 group-title="AISPLAY PREMIUM" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT4.png", SIAMSPORT 4
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/JL004/DASH/JL004.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7bbb1b0e447828db356b9989b4374898&chunkHttps=true&tmid=B0006&tpbk=e4E189txBbOGSluZ&rrt=1724082834&tmod=rfk&rsid=2bd2eca6-fd2d-4168-8bfc-e5ab69b919ca&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724169234
+#EXTINF:-1 tvg-id="NBT" tvg-name="HBO HD" tvg-logo="https://moviektu.com/news/logotv/movie/hd-hbo-thai.png" group-title="ภาพยนต์",HBO HD
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv/
+https://dookeela.live/live-tv/hbo
+#EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO HITS HD" tvg-logo="https://moviektu.com/news/logotv/movie/hd-hbo-hit.png" group-title="ภาพยนต์",HBO HITS HD (S)
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv/
+https://dookeela.live/live-tv/hbo-hits
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="https://moviektu.com/news/logotv/movie/hbosignature.png" group-title="ภาพยนต์",HBO Signature
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv/
+https://dookeela.live/live-tv/hbo-signature
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family HD" tvg-logo="https://moviektu.com/news/logotv/movie/hbofamily.png" group-title="ภาพยนต์",HBO Family HD
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv/
+https://dookeela.live/live-tv/hbo-family
 
-#EXTINF:-1 tvg-name="AIS PLAY SPORTS 1" tvg-id="AIS PLAY SPORTS 1" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AISPLAY_SPORTS1.png" group-title="AISPLAY PREMIUM", AIS PLAY SPORTS 1
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL101/DASH/TL101.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7bbb1b0e447828db356b9989b4374898&chunkHttps=true&tmid=B0006&tpbk=e4E189txBbOGSluZ&rrt=1724082834&tmod=rfk&rsid=2bd2eca6-fd2d-4168-8bfc-e5ab69b919ca&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724169234
+#EXTINF:-1 tvg-id="ROCK ENTERTAINMENT.th" tvg-name="BLUEANT ENTERTAINMENT " tvg-logo="https://moviektu.com/news/logotv/movie/rocken.jpg" group-title="ภาพยนต์",BLUEANT ENTERTAINMENT
+#EXTVLCOPT:http-referrer=https://wacth.tv 
+https://media.wacthstream.com/stream_live/337_Rock_Entertainment/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
 
-#EXTINF:-1 tvg-name="AIS PLAY SPORTS 12 tvg-id="AIS PLAY SPORTS 1" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AISPLAY_SPORTS2.png" group-title="AISPLAY PREMIUM", AIS PLAY SPORTS 2
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL102/DASH/TL102.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7bbb1b0e447828db356b9989b4374898&chunkHttps=true&tmid=B0006&tpbk=e4E189txBbOGSluZ&rrt=1724082834&tmod=rfk&rsid=2bd2eca6-fd2d-4168-8bfc-e5ab69b919ca&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724169234
+#EXTINF:-1 tvg-id="ROCK Action.th" tvg-name="BLUEANT EXTREME" tvg-logo="https://moviektu.com/news/logotv/movie/expreme.jpg" group-title="ภาพยนต์",BLUEANT EXTREME
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://media.wacthstream.com/stream_live/338_Rock_Extreme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
 
-#EXTINF:-1 tvg-name="beIN SPORTS 1" tvg-id="beIN SPORTS 1.th" group-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/ais-play/play-premium/_jcr_content/root/container_1816311984/aiscontainer_1162502/columncontrol/content1/image.coreimg.jpeg/1722408757499/aug-24content-image-play-premium-th.jpeg" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png" group-title="AISPLAY PREMIUM", beIN SPORTS 1
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7bbb1b0e447828db356b9989b4374898&chunkHttps=true&tmid=B0006&tpbk=e4E189txBbOGSluZ&rrt=1724082834&tmod=rfk&rsid=2bd2eca6-fd2d-4168-8bfc-e5ab69b919ca&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724169234
-
-#EXTINF:-1 tvg-name="beIN SPORTS 2" tvg-id="beIN SPORTS 2.th" group-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/ais-play/play-premium/_jcr_content/root/container_1816311984/aiscontainer_1162502/columncontrol/content1/image.coreimg.jpeg/1722408757499/aug-24content-image-play-premium-th.jpeg" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png" group-title="AISPLAY PREMIUM", beIN SPORTS 2
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7bbb1b0e447828db356b9989b4374898&chunkHttps=true&tmid=B0006&tpbk=e4E189txBbOGSluZ&rrt=1724082834&tmod=rfk&rsid=2bd2eca6-fd2d-4168-8bfc-e5ab69b919ca&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724169234
-
-#EXTINF:-1 tvg-name="beIN SPORTS 3" tvg-id="beIN SPORTS 3.th" group-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/ais-play/play-premium/_jcr_content/root/container_1816311984/aiscontainer_1162502/columncontrol/content1/image.coreimg.jpeg/1722408757499/aug-24content-image-play-premium-th.jpeg" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png" group-title="AISPLAY PREMIUM", beIN SPORTS 3
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7bbb1b0e447828db356b9989b4374898&chunkHttps=true&tmid=B0006&tpbk=e4E189txBbOGSluZ&rrt=1724082834&tmod=rfk&rsid=2bd2eca6-fd2d-4168-8bfc-e5ab69b919ca&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724169234
-
-#EXTINF:-1 tvg-name="beIN SPORTS 4" tvg-id="beIN SPORTS 4.th" group-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/ais-play/play-premium/_jcr_content/root/container_1816311984/aiscontainer_1162502/columncontrol/content1/image.coreimg.jpeg/1722408757499/aug-24content-image-play-premium-th.jpeg" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_4.png" group-title="AISPLAY PREMIUM", beIN SPORTS 4
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb419fa5f5498e2c6cbc39363248ddd7:b5853b51f2060025a822e62973154556
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7bbb1b0e447828db356b9989b4374898&chunkHttps=true&tmid=B0006&tpbk=e4E189txBbOGSluZ&rrt=1724082834&tmod=rfk&rsid=2bd2eca6-fd2d-4168-8bfc-e5ab69b919ca&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724169234
-
-#EXTINF:-1 tvg-name="beIN SPORTS 5" tvg-id="beIN SPORTS 5.th" group-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/ais-play/play-premium/_jcr_content/root/container_1816311984/aiscontainer_1162502/columncontrol/content1/image.coreimg.jpeg/1722408757499/aug-24content-image-play-premium-th.jpeg" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_5.png" group-title="AISPLAY PREMIUM", beIN SPORTS 5
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3a165f923cd49e616f173fc6c341cc56:4cb96186d69f1a63c40218812a6f6910
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7bbb1b0e447828db356b9989b4374898&chunkHttps=true&tmid=B0006&tpbk=e4E189txBbOGSluZ&rrt=1724082834&tmod=rfk&rsid=2bd2eca6-fd2d-4168-8bfc-e5ab69b919ca&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724169234
-
-#EXTINF:-1 tvg-name="beIN SPORTS 6" tvg-id="beIN SPORTS 6.th" group-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/ais-play/play-premium/_jcr_content/root/container_1816311984/aiscontainer_1162502/columncontrol/content1/image.coreimg.jpeg/1722408757499/aug-24content-image-play-premium-th.jpeg" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_6.png" group-title="AISPLAY PREMIUM", beIN SPORTS 6
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ceac4607562049abb9d1b0309d9cd6f3:d396d277a364fab00d0193d25b700847
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7bbb1b0e447828db356b9989b4374898&chunkHttps=true&tmid=B0006&tpbk=e4E189txBbOGSluZ&rrt=1724082834&tmod=rfk&rsid=2bd2eca6-fd2d-4168-8bfc-e5ab69b919ca&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724169234
-
-#EXTINF:-1 tvg-name="beIN SPORTS 7" tvg-id="beIN SPORTS 7.th" group-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/ais-play/play-premium/_jcr_content/root/container_1816311984/aiscontainer_1162502/columncontrol/content1/image.coreimg.jpeg/1722408757499/aug-24content-image-play-premium-th.jpeg" tvg-logo="https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_7.png" group-title="AISPLAY PREMIUM", beIN SPORTS 7
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7bbb1b0e447828db356b9989b4374898&chunkHttps=true&tmid=B0006&tpbk=e4E189txBbOGSluZ&rrt=1724082834&tmod=rfk&rsid=2bd2eca6-fd2d-4168-8bfc-e5ab69b919ca&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724169234
-
-#EXTINF:-1 tvg-name="GOLF CHANNEL" tvg-id="GOLF CHANNEL.th" group-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/ais-play/play-premium/_jcr_content/root/container_1816311984/aiscontainer_1162502/columncontrol/content1/image.coreimg.jpeg/1722408757499/aug-24content-image-play-premium-th.jpeg" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//GolfChannelThailand.png" group-title="AISPLAY PREMIUM", GOLF CHANNEL
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0130/DASH/V0130.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7bbb1b0e447828db356b9989b4374898&chunkHttps=true&tmid=B0006&tpbk=e4E189txBbOGSluZ&rrt=1724082834&tmod=rfk&rsid=2bd2eca6-fd2d-4168-8bfc-e5ab69b919ca&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724169234
-
-#EXTINF:-1 tvg-name="Cartoonito" tvg-id="Cartoonito.th" group-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/VOD/images/Valentines2024_IconFamily.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png" group-title="KIDS", Cartoonito
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d6a1b556425b6932c6ffe80e7a828e57:bd8ea11b338954c1746f45bcf851c91e
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0113/DASH/V0113.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7bbb1b0e447828db356b9989b4374898&chunkHttps=true&tmid=B0006&tpbk=e4E189txBbOGSluZ&rrt=1724082834&tmod=rfk&rsid=2bd2eca6-fd2d-4168-8bfc-e5ab69b919ca&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724169234
-
-#EXTINF:-1 tvg-name="Cartoon Network" tvg-id="Cartoon Network.th" group-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/VOD/images/Valentines2024_IconFamily.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png" group-title="KIDS", Cartoon Network
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=752cdfe2fd238fcb0b98a8cb7e0ed584:1f0d3ac06263a52d9c826394c7f3b1d4
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/X171/DASH/X171.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7bbb1b0e447828db356b9989b4374898&chunkHttps=true&tmid=B0006&tpbk=e4E189txBbOGSluZ&rrt=1724082834&tmod=rfk&rsid=2bd2eca6-fd2d-4168-8bfc-e5ab69b919ca&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724169234
-
-#EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nickelodeon.th" group-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/ais-play/play-premium/_jcr_content/root/container_1816311984/aiscontainer_1162502/columncontrol/content1/image.coreimg.jpeg/1722408757499/aug-24content-image-play-premium-th.jpeg" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png" group-title="KIDS", Nickelodeon
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34cf6695d9082bc5b4687e59d61b48d2:64e30dc5efbacf1f3fd344a01ba2f906
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0187/DASH/V0187.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7bbb1b0e447828db356b9989b4374898&chunkHttps=true&tmid=B0006&tpbk=e4E189txBbOGSluZ&rrt=1724082834&tmod=rfk&rsid=2bd2eca6-fd2d-4168-8bfc-e5ab69b919ca&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724169234
-
-#EXTINF:-1 tvg-name="Nick Jr." tvg-id="Nick Jr..th" group-logo="https://www.ais.th/content/ais/th/th_th/consumers/entertainment/ais-play/play-premium/_jcr_content/root/container_1816311984/aiscontainer_1162502/columncontrol/content1/image.coreimg.jpeg/1722408757499/aug-24content-image-play-premium-th.jpeg" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/Nickjr_2024.png" group-title="AISPLAY PREMIUM", Nick Jr.
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d4852cf0a609a4f7f21bac4a4f7d5df5:a47711e6e3d68235cc942e4fb9c1c5f1
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0186/DASH/V0186.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7bbb1b0e447828db356b9989b4374898&chunkHttps=true&tmid=B0006&tpbk=e4E189txBbOGSluZ&rrt=1724082834&tmod=rfk&rsid=2bd2eca6-fd2d-4168-8bfc-e5ab69b919ca&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724169234
-
-#EXTINF:-1  tvg-name="Animal Planet" tvg-id="Animal Planet.th" group-logo="hhttps://www.ais.th/content/ais/th/th_th/consumers/entertainment/ais-play/play-premium/_jcr_content/root/container_1816311984/aiscontainer_1162502/columncontrol/content1/image.coreimg.jpeg/1722408757499/aug-24content-image-play-premium-th.jpeg" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" group-title="AISPLAY PREMIUM", Animal Planet
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=445b1220aeb39feb55a95944aeeb65f4:52d98a1cd54f99d67e6512799504d235
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0182/DASH/V0182.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7bbb1b0e447828db356b9989b4374898&chunkHttps=true&tmid=B0006&tpbk=e4E189txBbOGSluZ&rrt=1724082834&tmod=rfk&rsid=2bd2eca6-fd2d-4168-8bfc-e5ab69b919ca&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724169234
-
-#EXTINF:-1 tvg-name="Discovery" tvg-id="Discovery.th" group-logo="hhttps://www.ais.th/content/ais/th/th_th/consumers/entertainment/ais-play/play-premium/_jcr_content/root/container_1816311984/aiscontainer_1162502/columncontrol/content1/image.coreimg.jpeg/1722408757499/aug-24content-image-play-premium-th.jpeg" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png" group-title="AISPLAY PREMIUM", Discovery
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7e8393537881b2d8534238f3a916d5a4:2ae033b06e3fb8e3a26ad63fb74d0f2f
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0180/DASH/V0180.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7bbb1b0e447828db356b9989b4374898&chunkHttps=true&tmid=B0006&tpbk=e4E189txBbOGSluZ&rrt=1724082834&tmod=rfk&rsid=2bd2eca6-fd2d-4168-8bfc-e5ab69b919ca&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724169234
-
-#EXTINF:-1 tvg-name="Discovery Asia" tvg-id="Discovery Asia.th" group-logo="hhttps://www.ais.th/content/ais/th/th_th/consumers/entertainment/ais-play/play-premium/_jcr_content/root/container_1816311984/aiscontainer_1162502/columncontrol/content1/image.coreimg.jpeg/1722408757499/aug-24content-image-play-premium-th.jpeg" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" group-title="AISPLAY PREMIUM", Discovery Asia
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7d2b3a2ee44d2d9e676f5ff1c09cc57:17d93e04b88ec01e67e3f07f68947164
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0181/DASH/V0181.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7bbb1b0e447828db356b9989b4374898&chunkHttps=true&tmid=B0006&tpbk=e4E189txBbOGSluZ&rrt=1724082834&tmod=rfk&rsid=2bd2eca6-fd2d-4168-8bfc-e5ab69b919ca&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724169234
-
-#EXTINF:-1 ch-number="106" tvg-name="Warner TV" tvg-id="Warner TV.th" group-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/VOD/images/SeriesICON.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" group-title="AISPLAY PREMIUM", Warner TV
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00a6eeb6a8623e7f5dd0de890fc55f52:57349ce17aa9f5692ad2fb7d9cdb01c7
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/X105/DASH/X105.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7bbb1b0e447828db356b9989b4374898&chunkHttps=true&tmid=B0006&tpbk=e4E189txBbOGSluZ&rrt=1724082834&tmod=rfk&rsid=2bd2eca6-fd2d-4168-8bfc-e5ab69b919ca&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724169234
-
-#EXTINF:-1 ch-number="156" tvg-name="Mangkorn" tvg-id="Mangkorn.th" group-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/VOD/images/SeriesICON.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0159.png" group-title="AISPLAY PREMIUM", Mangkorn
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0159/DASH/V0159.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7bbb1b0e447828db356b9989b4374898&chunkHttps=true&tmid=B0006&tpbk=e4E189txBbOGSluZ&rrt=1724082834&tmod=rfk&rsid=2bd2eca6-fd2d-4168-8bfc-e5ab69b919ca&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724169234
-
-#EXTINF:-1 ch-number="116" tvg-name="HBO" tvg-id="HBO.th" group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/MoviesICON.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png" group-title="AISPLAY PREMIUM", HBO
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=da901f885137d1f274dc7592762611ab:4d3536a7f0d996d6b013fc3dc1de7a3d
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0114/DASH/V0114.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7bbb1b0e447828db356b9989b4374898&chunkHttps=true&tmid=B0006&tpbk=e4E189txBbOGSluZ&rrt=1724082834&tmod=rfk&rsid=2bd2eca6-fd2d-4168-8bfc-e5ab69b919ca&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724169234
-
-#EXTINF:-1 ch-number="117" tvg-name="HBO Signature" tvg-id="HBO Signature.th" group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/MoviesICON.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png" group-title="AISPLAY PREMIUM", HBO Signature
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=97c1c27765dae9b95ee04ea6e8f50c34:7db57b354d4d9cdb22e256c2a7500956
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0117/DASH/V0117.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7bbb1b0e447828db356b9989b4374898&chunkHttps=true&tmid=B0006&tpbk=e4E189txBbOGSluZ&rrt=1724082834&tmod=rfk&rsid=2bd2eca6-fd2d-4168-8bfc-e5ab69b919ca&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724169234
-
-#EXTINF:-1 ch-number="118" tvg-name="HBO Hits" tvg-id="HBO Hits.th" group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/MoviesICON.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png" group-title="AISPLAY PREMIUM", HBO Hits
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56c2717c2c6431c75ac1fbf64a997cb6:d4544ffd929b2da1f6101705e74facee
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0116/DASH/V0116.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7bbb1b0e447828db356b9989b4374898&chunkHttps=true&tmid=B0006&tpbk=e4E189txBbOGSluZ&rrt=1724082834&tmod=rfk&rsid=2bd2eca6-fd2d-4168-8bfc-e5ab69b919ca&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724169234
-
-#EXTINF:-1 ch-number="119" tvg-name="HBO Family" tvg-id="HBO Family.th" group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/MoviesICON.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png" group-title="AISPLAY PREMIUM", HBO Family
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=96af42ae402ccc9b3f92a8e99ec8f5aa:6a0991ae3f06f76a010afa5515f67ac6
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0115/DASH/V0115.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7bbb1b0e447828db356b9989b4374898&chunkHttps=true&tmid=B0006&tpbk=e4E189txBbOGSluZ&rrt=1724082834&tmod=rfk&rsid=2bd2eca6-fd2d-4168-8bfc-e5ab69b919ca&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724169234
-
-#EXTINF:-1 ch-number="120" tvg-name="CINEMAX" tvg-id="CINEMAX.th" group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/MoviesICON.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png" group-title="AISPLAY PREMIUM", CINEMAX
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b541612bcb4598f60c4efc1733b5d8c9:7e6d2819c0912a204fd5478f8a60d1b5
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0118/DASH/V0118.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7bbb1b0e447828db356b9989b4374898&chunkHttps=true&tmid=B0006&tpbk=e4E189txBbOGSluZ&rrt=1724082834&tmod=rfk&rsid=2bd2eca6-fd2d-4168-8bfc-e5ab69b919ca&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724169234
-
-#EXTINF:-1 ch-number="200" tvg-name="ROCK ENTERTAINMENT" tvg-id="ROCK ENTERTAINMENT.th" group-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/VOD/images/SeriesICON.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Rock-Entertainment.png" group-title="AISPLAY PREMIUM", ROCK ENTERTAINMENT
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3837d26526efca2fa1f18823bd073c0f:ab4d56168a618b2413beb137d70ac453
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0165/DASH/V0165.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7bbb1b0e447828db356b9989b4374898&chunkHttps=true&tmid=B0006&tpbk=e4E189txBbOGSluZ&rrt=1724082834&tmod=rfk&rsid=2bd2eca6-fd2d-4168-8bfc-e5ab69b919ca&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724169234
-
-#EXTINF:-1 ch-number="201" tvg-name="ROCK Action" tvg-id="ROCK Action.th" group-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/VOD/images/SeriesICON.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="AISPLAY PREMIUM", ROCK Action
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4a3f4f0914988cc2f6be128c28893fff:db158f0d2bb85efd8f06e38d483de19c
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0166/DASH/V0166.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7bbb1b0e447828db356b9989b4374898&chunkHttps=true&tmid=B0006&tpbk=e4E189txBbOGSluZ&rrt=1724082834&tmod=rfk&rsid=2bd2eca6-fd2d-4168-8bfc-e5ab69b919ca&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724169234
-
-#EXTINF:-1 tvg-name="MONO29 Music Station" tvg-id="MONO29 Music Station.th" group-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/VOD/images/SeriesICON.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Music_new.png" group-title="AISPLAY PREMIUM", MONO29 Music Station
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2355ee65664e0b7fc02e7d389e1d2658:a935ccb1065ffe214823aae414f8b257
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0193/DASH/V0193.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7bbb1b0e447828db356b9989b4374898&chunkHttps=true&tmid=B0006&tpbk=e4E189txBbOGSluZ&rrt=1724082834&tmod=rfk&rsid=2bd2eca6-fd2d-4168-8bfc-e5ab69b919ca&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724169234
-
-#EXTINF:-1 tvg-name="Food Network" tvg-id="Food Network.th" group-logo="https://images.toffeelive.com/images/ugc/category/17/icon/category_icon_220616134219.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0162.png" group-title="AISPLAY PREMIUM", Food Network
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7372347ddf65ab1594ee35362240dafa:4d78d33c15d1098214b3d3cd3bb7c2a4
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0162/DASH/V0162.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7bbb1b0e447828db356b9989b4374898&chunkHttps=true&tmid=B0006&tpbk=e4E189txBbOGSluZ&rrt=1724082834&tmod=rfk&rsid=2bd2eca6-fd2d-4168-8bfc-e5ab69b919ca&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724169234
-
-#EXTINF:-1 tvg-name="Asian Food Network" tvg-id="Asian Food Network.th" group-logo="https://images.toffeelive.com/images/ugc/category/17/icon/category_icon_220616134219.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png" group-title="AISPLAY PREMIUM", Asian Food Network
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=41c6d6041786bf8142636da6646af821:943bc1ff87a15e9cf19613713bed6509
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0161/DASH/V0161.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7bbb1b0e447828db356b9989b4374898&chunkHttps=true&tmid=B0006&tpbk=e4E189txBbOGSluZ&rrt=1724082834&tmod=rfk&rsid=2bd2eca6-fd2d-4168-8bfc-e5ab69b919ca&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724169234
-
-#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.th" group-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/VOD/images/SeriesICON.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TLC.png" group-title="AISPLAY PREMIUM", TLC
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=adfe8e6aa801559a4e129992c0f20403:6c7aefc27c4bea0fd10c282061c138d8
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0183/DASH/V0183.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7bbb1b0e447828db356b9989b4374898&chunkHttps=true&tmid=B0006&tpbk=e4E189txBbOGSluZ&rrt=1724082834&tmod=rfk&rsid=2bd2eca6-fd2d-4168-8bfc-e5ab69b919ca&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724169234
-
-#EXTINF:-1 tvg-name="Global Trekker" tvg-id="Global Trekker.th" group-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/VOD/images/SeriesICON.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/GlobalTrekker.png" group-title="AISPLAY PREMIUM", Global Trekker
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8c67bc71fc46a9af8e839ac84794f570:5375508840e044432a708c3fba038c05
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0023/DASH/V0023.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7bbb1b0e447828db356b9989b4374898&chunkHttps=true&tmid=B0006&tpbk=e4E189txBbOGSluZ&rrt=1724082834&tmod=rfk&rsid=2bd2eca6-fd2d-4168-8bfc-e5ab69b919ca&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724169234
-
-#EXTINF:-1 tvg-name="TechStorm" tvg-id="TechStorm.th" group-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/VOD/images/SeriesICON.png" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TechStorm_new.png" group-title="AISPLAY PREMIUM", TechStorm
-#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dca989ef784fa310300fa21c893dbcf3:fb9068e0516852ee0ec251605322e549
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0168/DASH/V0168.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7bbb1b0e447828db356b9989b4374898&chunkHttps=true&tmid=B0006&tpbk=e4E189txBbOGSluZ&rrt=1724082834&tmod=rfk&rsid=2bd2eca6-fd2d-4168-8bfc-e5ab69b919ca&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1724169234
+#EXTINF:-1 tvg-id="" tvg-name="TRUE Thai Film " tvg-logo="https://moviektu.com/news/logotv/movie/sd-thaifilm.png" group-title="ภาพยนต์",TRUE Thai Film 
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://media.wacthstream.com/stream_live/236_TrueThaiFilmHD./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
