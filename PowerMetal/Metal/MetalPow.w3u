@@ -70,12 +70,7 @@
 					"url": "https://raw.githubusercontent.com/powmetal/Powermetal/main/PowerMetal/TV/ALLCH.m3u",
 					"import": "true"
 				},
-                                {
-                                        "name": "18+ Video",
-	                                "image": "https://static.vecteezy.com/system/resources/thumbnails/035/845/726/small_2x/18-plus-age-restriction-icon-neon-sign-on-brick-wall-background-free-video.jpg",
-	                                "url": "https://drive.google.com/uc?id=11Bo2hmX0B3sIke2GryZJ96Gglc2qGMnv"
-                                        "import": "true"
-                                },
+
 			]
 		}
 	]
