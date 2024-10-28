@@ -1,0 +1,13 @@
+{
+  "name": "AVซับไทยBy-MetalPow ",
+  "author": "Metalpowจัดทำขึ้นเองครับ",
+  "image": "https://raw.githubusercontent.com/powmetal/Powermetal/main/PowerMetal/Assets/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89.jpg",
+  "stations": [
+ {
+      "name": "MD0323-1 Promiscuous ตี้ยกครัว งานนัวแลกวงสวิง",
+      "image": "https://avsubthai.me/wp-content/uploads/2024/10/MD0323-1-400x225.jpg",
+      "url": "https://avsubthai.me/9609",
+      "referer": "https://avsubthai.me/"
+ },
+ ]
+}
