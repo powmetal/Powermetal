@@ -24,7 +24,7 @@
 				{
 					"name": "🟢AIS-Sport",
 					"image": "https://raw.githubusercontent.com/powmetal/Powermetal/main/PowerMetal/Assets/logo/AIS%20SPORT.png",
-					"url": "https://raw.githubusercontent.com/powmetal/Powermetal/main/PowerMetal/TV/SPORTS%20AIS.m3u",
+					"url": "https://raw.githubusercontent.com/powmetal/Powermetal/refs/heads/main/PowerMetal/TV/SPORTS-AIS.m3u",
 					"import": "true"
 				},
 			]
