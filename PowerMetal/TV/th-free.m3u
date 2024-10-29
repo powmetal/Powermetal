@@ -1,176 +1,92 @@
 {
-    "name": "📺ช่องทีวีดิจิตอล",
+    "name": "📺ดิจิตอล-TV",
     "author": "Metal&Pow-TV",
-    "image": "https://raw.githubusercontent.com/powmetal/Powermetal/main/PowerMetal/Assets/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89.jpg",
+    "image": "https://img2.pic.in.th/pic/Digital_TV.png",
     "stations": [
-    {
-      "name": "NBT",
-      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",
-      "url":"https://aisplay.ais.co.th/portal/live?vid=5f9e908c12008d9caab3cf3b",
-      "referer"	:"https://ais-vidnt.com/",
-      "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name": "Thai PBS",
-      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",
-      "url":"https://aisplay.ais.co.th/portal/live?vid=6378ef895b10cf050fd01614",
-      "referer"	:"https://ais-vidnt.com/",
-      "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name": "ALTV",
-      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ALTV.PNG",
-      "url":"https://aisplay.ais.co.th/portal/live?vid=5efdd162fbb0045345ef2b61",
-      "referer"	:"https://ais-vidnt.com/",
-      "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name": "TV 5",
-      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png",
-      "url":"https://aisplay.ais.co.th/portal/live?vid=5b335ab3d817de6d62889a6b",
-      "referer"	:"https://ais-vidnt.com/",
-      "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name": "T-Sports 7",
-      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png",
-      "url":"https://aisplay.ais.co.th/portal/live?vid=627a27b26dbfe345cfc8a27f",
-      "referer"	:"https://ais-vidnt.com/",
-      "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name": "TPTV | Parliament",
-      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0048.png",
-      "url":"https://aisplay.ais.co.th/portal/live?vid=597be02d7ed5a24e46f67254",
-      "referer"	:"https://ais-vidnt.com/",
-      "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name": "TNN",
-      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",
-      "url":"https://aisplay.ais.co.th/portal/live?vid=59671d1cd817de1df19711a6",
-      "referer"	:"https://ais-vidnt.com/",
-      "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name": "JKN 18",
-      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png",
-      "url":"https://aisplay.ais.co.th/portal/live?vid=637b3a816d6b13ecd5676af4",
-      "referer"	:"https://ais-vidnt.com/",
-      "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name": "Nation",
-      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png",
-      "url":"https://aisplay.ais.co.th/portal/live?vid=6378f08337d179394ce585f4",
-      "referer"	:"https://ais-vidnt.com/",
-      "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name": "Workpoint",
-      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png",
-      "url":"https://aisplay.ais.co.th/portal/live?vid=632f2696fd54ec81809f7920",
-      "referer"	:"https://ais-vidnt.com/",
-      "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name": "True 4 U",
-      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",
-      "url":"https://aisplay.ais.co.th/portal/live?vid=5b3359d9bf6aee16d7459c25",
-      "referer"	:"https://ais-vidnt.com/",
-      "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name": "GMM 25",
-      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",
-      "url":"https://aisplay.ais.co.th/portal/live?vid=5a702c48d817de6932b0db7a",
-      "referer"	:"https://ais-vidnt.com/",
-      "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name": "CH 8",
-      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png",
-      "url":"https://aisplay.ais.co.th/portal/live?vid=5a127510d817de0fae3b6f2c",
-      "referer"	:"https://ais-vidnt.com/",
-      "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name": "Mono",
-      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",
-      "url":"https://aisplay.ais.co.th/portal/live?vid=60811938fa3813c616f38b63",
-      "referer"	:"https://ais-vidnt.com/",
-      "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name": "Mcot (CH 9)",
-      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png",
-      "url":"https://aisplay.ais.co.th/portal/live?vid=5efec3f10f6d9dc4b26c6e77",
-      "referer"	:"https://ais-vidnt.com/",
-      "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name": "One 31",
-      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",
-      "url":"https://aisplay.ais.co.th/portal/live?vid=5a1685baaae731375f0eb728",
-      "referer"	:"https://ais-vidnt.com/",
-      "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name": "Thairath TV",
-      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",
-      "url":"https://aisplay.ais.co.th/portal/live?vid=60bd9c7b497960d3f9a3e222",
-      "referer"	:"https://ais-vidnt.com/",
-      "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name": "CH 3",
-      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG",
-      "url":"https://aisplay.ais.co.th/portal/live?vid=59592e08bf6aee4e3ecce051",
-      "referer"	:"https://ais-vidnt.com/",
-      "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name": "AmarinTV",
-      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png",
-      "url":"https://aisplay.ais.co.th/portal/live?vid=5b335b61bf6aee16d8c33382",
-      "referer"	:"https://ais-vidnt.com/",
-      "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name": "CH 7",
-      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
-      "url":"https://aisplay.ais.co.th/portal/live?vid=5abdd28daae73161cb8ef446",
-      "referer"	:"https://ais-vidnt.com/",
-      "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-      "playInNatPlayer":"true"
-    },
-    {
-      "name": "PPTV",
-      "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/PPTV_2024e.jpg",
-      "url":"https://aisplay.ais.co.th/portal/live?vid=5d4bebb6aae7315312049035",
-      "referer"	:"https://ais-vidnt.com/",
-      "userAgent":"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
-      "playInNatPlayer":"true"
-    },
+#EXTINF:-1 tvg-name="3 HD" tvg-id="3 HD.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/33.png", 3 HD
+http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CH 5" tvg-logo="https://moviektu.com/news/logotv/hd-ch5.png",CH 5
+https://edge6a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch7.iptv36.my.to" tvg-name="CH 7" tvg-logo="https://moviektu.com/news/logotv/hd-ch7.png",CH 7
+#EXTVLCOPT:http-referrer=https://dooball2you.com
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/7hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nbt.iptv36.my.to" tvg-name="NBT" tvg-logo="https://moviektu.com/news/logotv/sd-nbt.png",NBT
+https://edge6a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nbt.iptv36.my.to" tvg-name="NBT-B" tvg-logo="https://moviektu.com/news/logotv/sd-nbt.png",NBT-B
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:bfe6-faf5-827f-6228-2aa1.smil/chunklist_w695610859_b2128000.m3u8
+
+#EXTINF:-1 tvg-id="thaipbs.iptv36.my.to" tvg-name="Thai PBS" tvg-logo="https://moviektu.com/news/logotv/hd-tpbs.png",Thai PBS
+https://edge6a.v2h-cdn.com/tpbs/tpbs.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="altv.iptv36.my.to" tvg-name="ALTV" tvg-logo="https://moviektu.com/news/logotv/altv.png",ALTV
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tptv.iptv36.my.to" tvg-name="TPTV" tvg-logo="https://moviektu.com/news/logotv/sd-tptv.png",TPTV
+https://tv-live.tpchannel.org/live/tv_1080p.m3u8?vhost=tv-live.tpchannel.org
+
+#EXTINF:-1 tvg-id="mcot.iptv36.my.to" tvg-name="MCOT" tvg-logo="https://moviektu.com/news/logotv/hd-mcot.png",MCOT
+https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tnn16.iptv36.my.to" tvg-name="TNN 16" tvg-logo="https://moviektu.com/news/logotv/sd-tnn24.png",TNN 16
+https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nation.iptv36.my.to" tvg-name="Nation HD" tvg-logo="https://moviektu.com/news/logotv/sd-nation.png",Nation HD
+https://edge6a.v2h-cdn.com/nation/nation.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="workpoint.iptv36.my.to" tvg-name="Workpoint-B" tvg-logo="https://moviektu.com/news/logotv/hd-workpoint.png",Workpoint
+https://edge6a.v2h-cdn.com/workpoint/workpoint.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="true4u.iptv36.my.to" tvg-name="True4U" tvg-logo="https://moviektu.com/news/logotv/sd-24u.png",True4U
+https://edge6a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="gmm25.iptv36.my.to" tvg-name="GMM25" tvg-logo="https://moviektu.com/news/logotv/sd-gmmchannel.png",GMM25
+http://appdootv2.dootvde.com:1935/live/50018_gmm.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ch8.iptv36.my.to" tvg-name="CH 8" tvg-logo="https://moviektu.com/news/logotv/hd-ch8.png",CH 8
+http://appdootv2.dootvde.com:1935/live/50028_ch8.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mono29.iptv36.my.to" tvg-name="MONO29" tvg-logo="https://moviektu.com/news/logotv/hd-mono.png",MONO29
+https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/chunklist_b6628000.m3u8
+
+#EXTINF:-1 tvg-id="one.iptv36.my.to" tvg-name="ONE HD" tvg-logo="https://moviektu.com/news/logotv/hd-gmmone.png",ONE HD
+https://edge6a.v2h-cdn.com/onehd/onehd.stream/playlist.m3u8
+https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/6415628290001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="thairath.iptv36.my.to" tvg-name="Thairath" tvg-logo="https://moviektu.com/news/logotv/hd-thairath.png",Thairath
+http://appdootv2.dootvde.com:1935/live/50023_thairath_hd.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="amarin.iptv36.my.to" tvg-name="Amarin" tvg-logo="https://moviektu.com/news/logotv/amarintv.png",Amarin
+http://appdootv2.dootvde.com:1935/live/50025_amarin_tv_hd.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="pptv.iptv36.my.to" tvg-name="PPTV" tvg-logo="https://moviektu.com/news/logotv/hd-pptv.png",PPTV
+https://edge6a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8
+http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NEWS 1" tvg-logo="https://moviektu.com/news/logotv/sd-news1.png",NEWS 1
+http://news1.live14.com/stream/news1_hi.m3u8
+
+#EXTINF:-1 tvg-id="jkn18.iptv36.my.to" tvg-name="TOPNEWS" tvg-logo="https://moviektu.com/news/logotv/hd-topnews.png",TOPNEWS
+https://live.topnews.co.th/hls/topnews_a_720.m3u8
+
+#EXTINF:-1 tvg-id="jkn18.iptv36.my.to" tvg-name="JKN18" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4519.png",JKN18
+https://edge6a.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVB Thai.th" tvg-name="TVB Thai" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/89_y_x5ZRi3AUV0bIdqSw1OyMfhTC6GoDjNYz.png",TVB Thai
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://n-edge-1-th.v2h-cdn.com/tvb_m/tvb_thai/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://news1live.com/images/social-share-logo.png",NEWS1 HD
+http://news1.live14.com/stream/news1_hi.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.scdn.co/image/09f811f9e56cf43d4ffd209ba9917f677b43d038",Police TV
+https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_W_2JqEruZTu1NuWTkX6OxW9zvDqzz7NzNA&s",แซ่บ ชาแนล
+https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
     {
       "name": "Cartoon Club",
       "image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0100.png",
