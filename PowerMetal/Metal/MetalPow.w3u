@@ -35,6 +35,12 @@
 			"image": "https://raw.githubusercontent.com/powmetal/Powermetal/main/PowerMetal/Assets/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%B4%E0%B8%87.png",
 			"groups": [
 				{
+					"name": "📺ดิจิตอล-TV",
+					"image": "https://img2.pic.in.th/pic/Digital_TV.png",
+					"url": "https://raw.githubusercontent.com/powmetal/Powermetal/refs/heads/main/PowerMetal/TV/th-free.m3u",
+					"import": "true"
+				},
+				{
 					"name": "ช่อง-AIS ",
 					"image": "https://raw.githubusercontent.com/powmetal/Powermetal/main/PowerMetal/Assets/logo/%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7.png",
 					"url": "https://raw.githubusercontent.com/powmetal/Powermetal/refs/heads/main/PowerMetal/TV/GREEN-Premium.m3u",
