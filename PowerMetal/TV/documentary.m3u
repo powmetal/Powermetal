@@ -1,0 +1,69 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1705536821.png"   ,สำรวจโลก 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=292&tv=สำรวจโลก
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1706112700.png"   ,Animal Planet 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=300&tv=AnimalPlanet
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1705537126.png"   ,Animal Show 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=294&tv=AnimalShow
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1717696078.png"   ,Asian Food Network 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=398&tv=AsianFoodNetwork
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1714101191.png"   ,BBC EARTH 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=358&tv=BBCEARTH
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1705785324.png"   ,BBC News 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=296&tv=BBCNews
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1714101661.png"   ,Crime + Investigation 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=359&tv=Crime+Investigation
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1706112738.png"   ,Discovery 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=301&tv=Discovery
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1706112755.png"   ,Discovery Asia 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=302&tv=DiscoveryAsia
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1717696062.png"   ,Food Network 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=397&tv=FoodNetwork
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1713231372.png"   ,History 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=350&tv=History
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1720781589.png"   ,Lifetime 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=422&tv=Lifetime
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1713508633.png"   ,Love Nature 4K 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=353&tv=LoveNature4K
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1705536991.png"   ,MySci 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=293&tv=MySci
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1716363369.png"   ,Nat Geo WILD 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=390&tv=NatGeoWILD
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1716366217.png"   ,National Geographic 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=391&tv=NationalGeographic
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1717696038.png"   ,TLC 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=396&tv=TLC
