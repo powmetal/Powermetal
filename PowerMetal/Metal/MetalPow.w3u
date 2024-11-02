@@ -27,6 +27,12 @@
 					"url": "https://raw.githubusercontent.com/powmetal/Powermetal/refs/heads/main/PowerMetal/TV/SPORTS-AIS.m3u",
 					"import": "true"
 				},
+				{
+					"name": "Sport-World",
+					"image": "https://static.wixstatic.com/media/18db72_c70c0a1fbd094fda958a7d624b470eb1~mv2.png",
+					"url": "https://raw.githubusercontent.com/powmetal/Powermetal/refs/heads/main/PowerMetal/TV/Sport-World.m3u",
+					"import": "true"
+				},
 			]
 		},
 		{
