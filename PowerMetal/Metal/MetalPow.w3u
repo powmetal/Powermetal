@@ -53,15 +53,9 @@
 					"import": "true"
 				},
 				{
-					"name": "ช่อง-AIS ",
-					"image": "https://raw.githubusercontent.com/powmetal/Powermetal/main/PowerMetal/Assets/logo/%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7.png",
-					"url": "https://raw.githubusercontent.com/powmetal/Powermetal/refs/heads/main/PowerMetal/TV/GREEN-Premium.m3u",
-					"import": "true"
-				},
-				{
-					"name": "ช่อง-TRUE",
-					"image": "https://raw.githubusercontent.com/powmetal/Powermetal/main/PowerMetal/Assets/logo/%E0%B8%84%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%81%E0%B8%94%E0%B8%87.png",
-					"url": "https://raw.githubusercontent.com/powmetal/Powermetal/refs/heads/main/PowerMetal/TV/RED-PLATINNUM.m3u",
+					"name": "Moves ",
+					"image": "https://img2.pic.in.th/pic/Movie.png",
+					"url": "https://raw.githubusercontent.com/powmetal/Powermetal/refs/heads/main/PowerMetal/TV/movies.m3u",
 					"import": "true"
 				},
 				{
