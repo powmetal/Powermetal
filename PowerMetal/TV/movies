@@ -1,0 +1,77 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703829940.png"   ,3BB Asian 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=281&tv=3BBAsian
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1719205850.png"   ,True Asian More 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=405&tv=TrueAsianMore
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1720380229.png"   ,True Film 1 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=418&tv=TrueFilm1
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1720723122.png"   ,True Film 2 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=420&tv=TrueFilm2
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1719205705.png"   ,True Film Asia 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=404&tv=TrueFilmAsia
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1719803882.png"   ,True Movie Hits 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=412&tv=TrueMovieHits
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1719205991.png"   ,True Series 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=406&tv=TrueSeries
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1706539896.png"   ,True Thai Film 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=307&tv=TrueThaiFilm
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1719803240.png"   ,CCM 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=411&tv=CCM
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703786799.png"   ,CINEMAX 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=278&tv=CINEMAX
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703686191.png"   ,HBO 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=274&tv=HBO
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703786776.png"   ,HBO Family 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=277&tv=HBOFamily
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703786599.png"   ,HBO Hits 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=276&tv=HBOHits
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703786305.png"   ,HBO Signature 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=275&tv=HBOSignature
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703832225.png"   ,Warner TV 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=282&tv=WarnerTV
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1705503765.png"   ,มังกร 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=289&tv=มังกร
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703787713.png"   ,MONO29 (โมโน 29) 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=279&tv=MONO29(โมโน29)
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1703787733.png"   ,MONO29 Plus 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=280&tv=MONO29Plus
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1719206155.png"   ,True X-Zyte 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=407&tv=TrueX-Zyte
