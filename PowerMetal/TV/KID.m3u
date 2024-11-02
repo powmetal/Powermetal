@@ -1,0 +1,53 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1705504202.png"   ,Boomerang 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=291&tv=Boomerang
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1705504043.png"   ,Cartoon Club HD 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=290&tv=CartoonClubHD
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1708344243.png"   ,Cartoon Network 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=314&tv=CartoonNetwork
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1723200736.png"   , DreamWorks
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=460&tv=DreamWorks
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1704039063.png"   ,cartoonito 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=285&tv=cartoonito
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1720723541.png"   ,True Spark Play 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=421&tv=TrueSparkPlay
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1708344362.png"   ,Nick Jr. 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=316&tv=NickJr.
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1708344306.png"   ,Nickelodeon 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=315&tv=Nickelodeon
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1713282303.png"   ,nicktoons | Germany 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=351&tv=nicktoons|Germany
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1709573298.png"   ,CBeebies 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=324&tv=CBeebies
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1716361978.png"   ,Disney Channel 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=387&tv=DisneyChannel
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1716362497.png"   ,Disney Junior 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=388&tv=DisneyJunior
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1716362753.png"   ,Disney XD 
+#EXTVLCOPT:http-referer=https://goal-th.com/
+https://goal-th.com/ช่องรายการทีวี/?id=389&tv=DisneyXD
