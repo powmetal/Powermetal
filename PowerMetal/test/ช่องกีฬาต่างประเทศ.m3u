@@ -2,7 +2,7 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #EXTVLCOPT:http-user-agent=Roku/DVP-12.0
-https://dcf-ak-livedazn.akamaized.net/dash/dazn-linear-023/stream.mpd
+https://dcf-de-livedazn.daznedge.net/dash/dazn-linear-023/stream.mpd
 
 #EXTINF:-1 tvg-id="Play Sports HD2.be" tvg-logo="https://i.ibb.co/MB271LX/playsports2.png" group-title="01.Sports", PLAY SPORTS 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
